@@ -1,0 +1,25 @@
+╭━━〔 *GitHub Commands* 〕━━⬣
+┃📁 *Available Commands*
+┃
+┃• .gh login username|token – Login
+┃• .gh logout – Logout
+┃• .gh list – List repos grouped by date (Nairobi time)
+┃• .gh create name|desc|public/private – Create repo
+┃• .gh push repo|subfolder|branch – Push file (reply to media/text or ZIP)
+┃• .gh folder repo|folder/path|branch – Create empty folder
+┃• .gh file repo|file/path|content|branch – Create file (or reply to text)
+┃• .gh overwrite repo|path|branch – Overwrite file (reply to new content)
+┃• .gh createbranch repo|branch – Create branch
+┃• .gh commit repo|path|msg|branch – Commit text (reply)
+┃• .gh deletefile repo|path|branch – Delete file
+┃• .gh branches repo – List branches
+┃• .gh delete repo – Delete repo
+┃• .gh download repo – Download repo as ZIP
+┃• .gh visibility repo|public/private – Change visibility
+┃• .gh visibility all|public/private – Change all repos
+┃• .gh invite repo|collaborator|permission – Invite collaborator (default: push)
+┃• .gh invite all|collaborator|permission – Invite to all private repos
+┃• .gh private – List all private repos
+┃
+╰━━━━━━━━━━━━━━━━━━━⬣
+> 🔗 *Powered By 404 XMD* 🔥
